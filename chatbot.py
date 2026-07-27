@@ -1,6 +1,6 @@
 import requests
 
-from llm2 import call_model
+from llm import call_model
 from errors import handle_api_error
 from history import load_history, save_history
 from config import CONVERSATION_FILE
