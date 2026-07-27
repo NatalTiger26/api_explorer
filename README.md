@@ -116,7 +116,7 @@ Conversations are saved as a JSON list of message objects, e.g.:
 
 If the saved file is missing or corrupted, `history.py` starts a fresh conversation with a default system prompt rather than crashing.
 
-## Notes
+<!-- ## Notes
 
 - Never commit your `.env` file or real API key — see `.gitignore`.
-- `conversations/*.json` files are personal chat logs and are git-ignored by default; `example.json` is kept as a reference for the expected format.
+- `conversations/*.json` files are personal chat logs and are git-ignored by default; `example.json` is kept as a reference for the expected format. -->
