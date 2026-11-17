@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful assistant."
+  },
+  {
+    "role": "user",
+    "content": "Hello! Can you explain what API Explorer does?"
+  },
+  {
+    "role": "assistant",
+    "content": "API Explorer is a lightweight command-line chatbot interface for NVIDIA's hosted LLM endpoints with persistent conversation history and robust error handling."
+  }
+]
